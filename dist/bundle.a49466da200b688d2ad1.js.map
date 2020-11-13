@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://vue-webpack/./src/index.js"],"names":["console","log"],"mappings":"AAGEA,QAAQC,IAHA","file":"bundle.a49466da200b688d2ad1.js","sourcesContent":["const x = 'index.js';\n\nconst y = (x) => {\n  console.log(x);\n}\n\ny(x);"],"sourceRoot":""}
